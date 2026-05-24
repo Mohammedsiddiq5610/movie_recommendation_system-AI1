@@ -1,0 +1,26 @@
+{
+  "version": "0.2",
+  "language": "en",
+  "words": [
+    "Segoe",
+    "Roboto",
+    "imdb",
+    "tmdb",
+    "selectbox",
+    "Streamlit",
+    "sklearn",
+    "hashlib",
+    "pandas",
+    "movieId",
+    "userId",
+    "colnames",
+    "fillna",
+    "cosine",
+    "similarity",
+    "concat",
+    "pivot",
+    "dataframe"
+  ],
+  "ignoreWords": [],
+  "import": []
+}
