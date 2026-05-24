@@ -19,7 +19,11 @@
     "similarity",
     "concat",
     "pivot",
-    "dataframe"
+    "dataframe",
+    "venv",
+    "numpy",
+    "scikit",
+    "scikit-learn"
   ],
   "ignoreWords": [],
   "import": []
